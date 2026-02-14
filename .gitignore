@@ -34,3 +34,16 @@ next-env.d.ts
 
 # user credentials
 data/users.json
+
+# logs
+*.log
+server.log
+server-error.log
+
+# temporary files
+temp_*.json
+temp_*.txt
+H:temp_*
+
+# PowerShell scripts (optional - uncomment if you don't want to track them)
+# *.ps1
